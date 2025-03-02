@@ -1,0 +1,11 @@
+{
+    "name":"Adarsh",
+    "score":11.75,
+    "isAdmin":false,
+    "license":null,
+    "shopItems":["food","Cloths","Pensil"],
+    "myObj":{
+        "name":"S Mart",
+        "Items":["Tea","Sugar","Tomato"]
+    }
+}
