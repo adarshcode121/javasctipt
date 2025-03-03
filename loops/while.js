@@ -43,3 +43,9 @@ for (const nm of name) {
 }
 
 
+
+array.forEach(element => {
+    
+});
+
+
