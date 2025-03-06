@@ -44,7 +44,7 @@ for (const key in myObj) {
     console.log(`${key} is ${myObj[key]} `);
 }
 
-
+ugghhhu
 
 
 
