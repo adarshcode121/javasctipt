@@ -12,4 +12,3 @@ console.log(data);
 // console.log(data.myObj.Items[0]);
 
 console.log(data.myObj.name,data.myObj.Items[2]);
-hhhhhhhh
