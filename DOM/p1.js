@@ -8,3 +8,7 @@
 // i can do wahtever i want 
 // i am great 
 // i can and i shall win
+//i am the best 
+// nothing is inpossibale 
+// i can easly earn my  1 cr 
+
