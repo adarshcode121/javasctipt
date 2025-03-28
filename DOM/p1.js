@@ -15,5 +15,29 @@
 // nothing is inpossible 
 //
 
+v
+dsfdfb
+dbdb
+dd
+fbd
+fbdf
+bd
+bd
+b
+db
+// f
+// fgb
+// db
+// gb
+// b
+// db
+// db
+// db
+// d
+// dg
+// n
+// b
+// db
+// db
 
 
